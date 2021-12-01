@@ -40,7 +40,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn sample_01() {
+    fn test_part1() {
         let data = "199
 200
 208
@@ -56,7 +56,7 @@ mod tests {
     }
 
     #[test]
-    fn sample_02() {
+    fn test_part2() {
         let data = "199
 200
 208
